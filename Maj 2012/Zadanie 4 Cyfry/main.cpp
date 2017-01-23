@@ -14,11 +14,11 @@ int main()
     {
         for(int i=0; i<linia.length(); i++)
         {
-            //Zamiana kaødej cyfry z liczby na int oraz dodanie ich do siebie
+            //Zamiana ka≈ºdej cyfry z liczby na int oraz dodanie ich do siebie
             character=linia[i];
             temp_a=atoi(character.c_str());
             wynik=wynik+temp_a;
-            //Sprawdza czy kolejna cyfra jest wiÍksza od poprzedniej
+            //Sprawdza czy kolejna cyfra jest wiƒôksza od poprzedniej
             if(temp_b<temp_a)
             {
                 temp_b=temp_a;
@@ -28,7 +28,7 @@ int main()
         temp_b=0;
         //Sprawdzenie czy zachodzi warunek wymagany w podpunkcie c)
         if (suma==linia.length()) cout<<"c) "<<linia<<" ";
-        //Podstawia pod storage odpowiedzialny za przechowywanie obecnie najwiÍkszej i najmniejszej liczby
+        //Podstawia pod storage odpowiedzialny za przechowywanie obecnie najwiƒôkszej i najmniejszej liczby
          if(najm>wynik)
         {
            najm=wynik;
@@ -39,7 +39,7 @@ int main()
             najw=wynik;
             strmax=linia;
         }
-        //Sprawdü czy parzysta i dodaj do licznika parzystych
+        //Sprawd≈∫ czy parzysta i dodaj do licznika parzystych
         liczba=atoi(linia.c_str());
         if(liczba%2==0) licznik_parzystych++;
         wynik=0;
