@@ -1,0 +1,43 @@
+a)
+Nr Domku Liczba Dni
+1 	 29
+2 	 58
+3 	 51
+4 	 39
+5 	 39
+6 	 35
+7 	 44
+8 	 48
+9 	 25
+b)
+Nazwisko 	Imie
+Adamski 	Adam
+Sadej 		Andrzej
+Hamerak 	Blazej
+Bardzewska 	Grazyna
+Magdzinska 	Irena
+Wawrzynowski 	Marek
+Haberko 	Marek
+Piekarzewski 	Pawel
+Kowalski 	Sebastian
+Iwaszkiewicz 	Slawomir
+Zawada 		Witold
+Piasecki 	Zbigniew
+Lehmann 	Zdzislaw
+Kasprzak 	Zofia
+c)
+Tadeusz Fickowski 2500 z³
+d)
+rezerwacje domków z gara¿em – 49
+rezerwacje domków bez gara¿u – 48
+e)
+Nr Domku Liczba Dni
+1 	 8
+2 	 10
+3 	 7
+4 	 8
+5 	 7
+6 	 5
+7 	 10
+8 	 10
+9 	 7
