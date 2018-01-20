@@ -1,0 +1,18 @@
+a) 492 samce, 508 samic
+b) 	nazwisko imie
+	Antczak Edyta
+	Bielawska Dagmara
+	Bugajno Kamila
+	Gabowski Pawel
+	Jaworski Eugeniusz
+	Kaliszewski Kacper
+	Kowal Marcin
+	Kowalski Ryszard
+	Kwiatkowski Marcin
+	Szargawinska Danuta
+	Szczupak Anna
+	Tobera Krystyna
+	Wroclawski Rafal
+	Wysocka Maria
+c) Krystyna Tobera 41 medali
+d) 103 osoby
