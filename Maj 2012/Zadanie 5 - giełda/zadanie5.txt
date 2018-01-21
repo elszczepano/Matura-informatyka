@@ -1,0 +1,9 @@
+a) A – 221, B – 117, C – 198
+b) 
+	A 	B	 C
+max 	264 	210 	223
+min 	167 	62 	97
+d)
+Liczba krachów: 6
+Ceny akcji w momencie ostatniego krachu: A – 224, B – 163, C – 194
+e) 14 razy
