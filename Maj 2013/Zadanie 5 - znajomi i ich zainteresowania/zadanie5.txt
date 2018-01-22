@@ -1,0 +1,29 @@
+a) kulturystyka, kolekcjonerstwo, krzy¿ówki
+b) 7
+c)
+imiê 		nazwisko
+Zofia 		Augustowska
+Sebastian 	Helski
+Kornel 		Henrykowski
+Jerzy 		Kielecki
+Ewelia 		Lubelska
+Wiktor 		Lubelski
+Wiktor 		Pilski
+Horacy 		Warszawski
+d)
+Nazwisko 	Imie
+Augustowska 	Anna
+Augustowska 	Justyna
+Augustowska 	Zofia
+Augustowski 	Kornel
+Augustowski 	Sebastian
+Augustowski 	Adam
+Augustowski 	Tomasz
+Katowicka 	Paulina
+Katowicki 	Grzegorz
+Nadolicki 	Jan
+Nyska 		Ewelina
+Piotrkowska 	Katarzyna
+Piotrkowski 	Andrzej
+Polkowicka 	Dominika
+e) agroturystyka, broñ, kolekcjonerstwo, malarstwo, szyde³kowanie
