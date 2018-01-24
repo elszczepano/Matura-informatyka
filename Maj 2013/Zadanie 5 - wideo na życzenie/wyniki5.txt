@@ -1,0 +1,30 @@
+a)
+AA2005 Charlie i fabryka czekolady
+AC2005 Kevin sam w domu
+AB2005 Madagaskar
+BD2005 Opowiesci z Narnii: Lew, czarownica i stara szafa
+b)
+nazwa gatunku– horror
+liczba zamówieñ – 97
+c)
+Nr miesi¹ca	Liczba wypo¿yczeñ
+6 		24
+7 		31
+8 		31
+9 		37
+10 		45
+11 		48
+12 		58
+d)
+Bart³omiej Wojciechowski – 77,00 z³
+e)
+9 filmów:
+Eurotrip
+Jumper
+Katyn
+Mgla
+Mumia
+Oszukac przeznaczenie
+Pianista
+Straszny film
+The Ring
