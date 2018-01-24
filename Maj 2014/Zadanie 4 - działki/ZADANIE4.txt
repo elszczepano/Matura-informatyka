@@ -1,0 +1,20 @@
+a)
+Min: 500,18 - siedliskowa
+Max: 1500 - rekreacyjna
+b)
+rodzaj dzia³ki 	liczba dzia³ek 	œrednia powierzchnia
+Rolna  		708 		989,98
+Budowlana 	1775 		999,59
+Siedliskowa 	964 		986,12
+Leœna 		559 		1016,75
+Rekreacyjna 	994 		989,94
+c)
+wielkoœæ podatku 	liczba dzia³ek
+do 100 z³ w³¹cznie 	2096
+od 100 z³ do 500 z³ 	2133
+ponad 500 z³ 		771
+Wyniki dla podatku bez ulg:
+wielkoœæ podatku 	liczba dzia³ek
+do 100 z³ w³¹cznie 	559
+od 100 z³ do 500 z³ 	2074
+ponad 500 z³ 		2367
