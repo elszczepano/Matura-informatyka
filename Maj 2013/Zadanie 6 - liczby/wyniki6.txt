@@ -1,0 +1,6 @@
+a) 447
+b) 324
+c) 
+liczba – 49
+najmniejsza liczba – 248 
+najwiêksza liczba – 11333578 
