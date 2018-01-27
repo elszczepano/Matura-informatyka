@@ -1,15 +1,18 @@
 a)
-wiek 	liczba dzieci
-3 	795
-4 	150
-5 	77
-6 	9
+Paulina Czeszewska
+Joanna Derengowska
+Zuzanna Jasiñska
+Marta Studzieniecka
+Zofia Waluszko
 b)
-Nazwa przedszkola 				ogó³em 	dziewczynek 	ch³opców
-Przedszkole nr 28 Srebrna Kotwica 		28 	14 		14
-Przedszkole nr 49 im. Panienki z Okienka 	33 	17 		16
-Przedszkole nr 87 Gwiezdna kraina 		50 	27 		23
+Julia Adamczyk
+Pawe³ Adamik
+Weronika Adamowicz
 c)
-Przedszkole nr 75 Reksio; 54
+Przedszkole nr 61
+Chêtni: 20
 d)
-Przedszkole nr 5 Pod Weso³a Chmurka; 5
+nazwa przedszkola 			liczba miejsc	liczba chêtnych	œrednia liczba chêtnych
+Przedszkole nr 1 			55 		36 		0.65
+Przedszkole nr 12 			45 		31		0,69
+Niepubliczne Przedszkole Krasnal 	30 		27 		0,90
