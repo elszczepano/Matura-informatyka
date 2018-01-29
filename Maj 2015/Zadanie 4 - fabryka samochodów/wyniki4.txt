@@ -1,0 +1,14 @@
+a)
+Marka 	Liczba
+Dama 	317
+Granta 	300
+Dorkas 	322
+Lodera 	398
+b) Lodera, 305, II kwarta³, 2014 rok.
+c)
+Marka 	Liczba
+Dama 	18
+Granta 	9
+Dorkas 	17
+Lodera 	32
+d) 29368
