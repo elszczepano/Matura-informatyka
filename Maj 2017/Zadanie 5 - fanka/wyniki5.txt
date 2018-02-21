@@ -1,0 +1,17 @@
+5.1.a.
+Liczba meczy:
+T 6
+L 113
+P 25
+5.1.b.
+Rok 2007
+Liczba meczy rozegranych z dru¿ynami ze swego miasta 21.
+5.2
+Zwinne Mewy
+Nocne Pumy
+5.3
+Przegrane 	452
+Zremisowane 	170
+Wygrane 	579
+5.4
+22 sêdziów
